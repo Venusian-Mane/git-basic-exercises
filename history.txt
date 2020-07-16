@@ -1,0 +1,79 @@
+    1  exit
+    2  exit
+    3  exit
+    4  ls
+    5  ls
+    6  cd..
+    7  ls
+    8  cd Documents/
+    9  ls
+   10  cd Web\ Dev/
+   11  ls
+   12  cd Umuzi/
+   13  ls
+   14  cd git-basic-exercises/
+   15  ls
+   16  git log
+   17  git status
+   18  clear
+   19  touch README.md
+   20  ls
+   21  ls -a
+   22  git status
+   23  git add README.md 
+   24  git status
+   25  git commit -m "initial commit"
+   26  git log
+   27  clear
+   28  git log
+   29  nano README.md
+   30  ls
+   31  ls -a
+   32  cat README.md 
+   33  git stats
+   34  git status
+   35  git add README.md 
+   36  git commit -m "second commit"
+   37  ls
+   38  clear
+   39  nano README.md 
+   40  ls
+   41  git status
+   42  git add README.md 
+   43  git commit -m "third commit"
+   44  git log
+   45  03a9ca1fcd05235cae7704c8709fa26e8667e85f03a9ca1fcd05235cae7704c8709fa26e8667e85f03a9ca1fcd05235cae7704c8709fa26e8667e85f03a9ca1fcd05235cae7704c8709fa26e8667e85fclear
+   46  git checkout
+   47  git checkout 03a9ca1fcd05235cae7704c8709fa26e8667e85f
+   48  cat README.md 
+   49  git checkout master
+   50  cat README.md 
+   51  git branch
+   52  git branch milkshake-flavours
+   53  git checkout milkshake-flavours 
+   54  nano milkshakes.md
+   55  git status
+   56  cat milkshakes.md 
+   57  clear
+   58  exit
+   59  ls
+   60  cd Documents/
+   61  ls
+   62  cd Web\ Dev/
+   63  ls
+   64  cd Umuzi/
+   65  ls
+   66  cd git-basic-exercises/
+   67  ls
+   68  git branch
+   69  nano milkshakes.md 
+   70  ls
+   71  git add milkshakes.md
+   72  git commit -m "inital flavours"
+   73  git log
+   74  git checkout master
+   75  git log
+   76  git branch history
+   77  git checkout history
+   78  git log
+   79  history > history.txt
